@@ -9,3 +9,7 @@
 1. Download the repository
 2. Run the code
 3. Start playing by moving the arrow keys
+
+
+## Credits
+https://www.youtube.com/watch?v=K9qMm3JbOH0
